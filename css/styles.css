@@ -1,0 +1,173 @@
+a {
+  color: #FF5967;
+  text-decoration: none;
+  margin: 0 20px 0 20px;
+}
+
+a:hover {
+  color: #802D34;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  background-color: #FFC2DB;
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1.25rem;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 1.5;
+  margin: 50px auto 0 auto;
+  color: #76B352;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #52B357;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #52B357;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #be8abf;
+  width: 3%;
+  border-width: 6px;
+  margin: 100px auto 100px auto;
+}
+
+.avatar-img {
+  border-radius: 50%;
+  width: 15%;
+  height: 15%;
+  margin-top: 100px;
+}
+
+.computer-img {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.celeste-img {
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: #be8abf;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #FFA8CC;
+  padding-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-me {
+  padding: 0px 0 100px 0;
+  line-height: 2;
+}
+
+.contact-me-text {
+  margin-top: 0px;
+}
+
+.naam {
+  margin: 50px 0 0px 0;
+  padding-bottom: 50px;
+  color: white;
+  font-size: 0.8rem;
+}
+
+.student-text {
+  margin: auto;
+  width: 45%;
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.programmer {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-text {
+  margin-bottom: 50px;
+  width: 30%;
+  margin: 0 auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+/********** button code ****************/
+
+.myButton {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #52B357 5%, #52B357 100%);
+	background-color:#52B357;
+	border-radius:6px;
+	border:1px solid #52B357;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+  margin-top: 50px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #3B803E 5%, #3B803E 100%);
+	background-color:#3B803E;
+  color:#ffffff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+  color:#ffffff;
+}
+
+/************ button code *******************/
